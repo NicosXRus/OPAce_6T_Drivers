@@ -1,6 +1,6 @@
 # OnePlus Ace 6T Drivers
 
-This is a module for OnePlus Ace 5 owners, for fix camera functionality, correct battery capacity and correctly Name device after updating or converting to OxygenOS 16.
+This is a module for OnePlus Ace 6T owners, for fix camera functionality, correct battery capacity and correctly Name device after updating or converting to OxygenOS 16.
 
 ### KernelSU
 
