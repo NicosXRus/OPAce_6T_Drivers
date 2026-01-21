@@ -7,3 +7,6 @@ V0.2:
 
 V0.3:
 • Sources Drivers from ColorOS 16.0.2.402 | Add update.json
+
+V0.4:
+• Sources Drivers from ColorOS 16.0.2.402 | module size reduction
