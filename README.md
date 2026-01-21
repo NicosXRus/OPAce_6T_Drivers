@@ -8,6 +8,7 @@ This is a module for OnePlus Ace 6T owners, for fix camera functionality, correc
 
 + Minimal KernelSU version: 10940
 + Minimal KernelSU Manager (ksud) version: 11575
++ It is recommended to use a metamodule
 
 ### Magisk
 
