@@ -3,10 +3,10 @@
 # OnePlus Ace 6T Drivers
 
 ### 🇬🇧 English:
-This module-fix is for OnePlus Ace 5 users with OxygenOS 16. It fixes camera performance, correct battery capacity display, and the correct device name.
+This module-fix is for OnePlus Ace 6T users with OxygenOS 16. It fixes camera performance, correct battery capacity display, and the correct device name.
 
 ### 🇷🇺 Русский:
-Этот модуль-фикс предназначен для пользователей OnePlus Ace 5 с OxygenOS 16. Исправляет: работоспособность камеры, отображение ёмкости батареи и название устройства.
+Этот модуль-фикс предназначен для пользователей OnePlus Ace 6T с OxygenOS 16. Исправляет: работоспособность камеры, отображение ёмкости батареи и название устройства.
 
 ### KernelSU
 
