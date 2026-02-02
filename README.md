@@ -2,21 +2,25 @@
 
 # OnePlus Ace 6T Drivers
 
-This is a module for OnePlus Ace 6T owners, for fix camera functionality, correct battery capacity and correctly Name device after updating or converting to OxygenOS 16.
+### 🇬🇧 English:
+This module-fix is for OnePlus Ace 5 users with OxygenOS 16. It fixes camera performance, correct battery capacity display, and the correct device name.
+
+### 🇷🇺 Русский:
+Этот модуль-фикс предназначен для пользователей OnePlus Ace 5 с OxygenOS 16. Исправляет: работоспособность камеры, отображение ёмкости батареи и название устройства.
 
 ### KernelSU
 
-+ Minimal KernelSU version: 10940
-+ Minimal KernelSU Manager (ksud) version: 11575
-+ It is recommended to use a metamodule
-
++ Minimal KernelSU version/Минимальная версия KernelSU: 10940
++ Minimal KernelSU Manager (ksud) version/Минимальная версия менеджера KernelSU (ksud): 11575
++ It is recommended to use the metamodule/Рекомендуется использовать метамодуль
+  
 ### Magisk
 
-+ Minimal version: 26402
++ Minimal version/Минимальная версия: 26402
 
 ### APatch
 
-+ Minimal version: 10568
++ Minimal version/Минимальная версия: 10568
 
-## Compatibility
+## Compatibility/Совместимость
 Only OnePlus Ace 6T device (PLR110)
