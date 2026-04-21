@@ -17,6 +17,7 @@ This module-fix is for OnePlus Ace 6T users with OxygenOS 16. It fixes camera pe
 ### Magisk
 
 + Minimal version/Минимальная версия: 26402
++ Use/используйте mountify
 
 ### APatch
 
