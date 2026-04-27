@@ -1,4 +1,4 @@
-<a href="https://t.me/oneplusmod"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a><a href="https://t.me/OnePlus13R_Ace5"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a><a href="https://4pda.to/forum/index.php?showtopic=1112791"><img src="https://img.shields.io/badge/4PDA%20Forum-Modules%20Thread-009688&style=plastic"></a>
+<a href="https://t.me/oneplusmod"><img src="https://img.shields.io/badge/Telegram-Channel-One-blue?longCache=true&style=flat"></a><a href="https://t.me/OnePlus13R_Ace5"><img src="https://img.shields.io/badge/Telegram-Channel-Two-blue?longCache=true&style=flat"></a><a href="https://4pda.to/forum/index.php?showtopic=1112791"><img src="https://img.shields.io/badge/4PDA%20Forum-Modules%20Thread-009688&style=plastic"></a>
 
 # OnePlus Ace 6T Drivers
 
