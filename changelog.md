@@ -1,21 +1,3 @@
-V0.1:
-• Sources Drivers from ColorOS 16.0.2.402 | First experimental version (Test)
-Available only on 4PDA
-
-V0.2:
-• Sources Drivers from ColorOS 16.0.2.402 | Second experimental version (Test)
-
-V0.3:
-• Sources Drivers from ColorOS 16.0.2.402 | Add update.json
-
-V1.0:
-• Sources Drivers updated from ColorOS 16.0.3.501
-
-V1.0.1:
-• Sources Drivers updated from ColorOS 16.0.3.503
-
-V1.1.1:
-• Sources Drivers updated from ColorOS 16.0.5.702
-
-V1.2:
-• Sources Drivers updated from ColorOS 16.0.7.200 (16.1) (Latest Version)
+V1.2.1:
+• Sources Drivers from ColorOS 16.0.7.200
+• Compatibility with OverlayFS
