@@ -8,21 +8,28 @@ This module-fix is for OnePlus Ace 6T users with OxygenOS 16. It fixes camera pe
 ### 🇷🇺 Русский:
 Этот модуль-фикс предназначен для пользователей OnePlus Ace 6T с OxygenOS 16. Исправляет: работоспособность камеры, отображение ёмкости батареи и название устройства.
 
-### KernelSU
+### 🇦🇲 հայ:
+Այս լուծումը նախատեսված է OnePlus Ace 6T օգտատերերի համար, որոնք օգտագործում են OxygenOS 16: Այն լուծում է տեսախցիկի, մարտկոցի լիցքի ցուցադրման և սարքի անվան հետ կապված խնդիրները.
 
-+ Minimal KernelSU version/Минимальная версия KernelSU: 10940
-+ Minimal KernelSU Manager (ksud) version/Минимальная версия менеджера KernelSU (ksud): 11575
-+ It is recommended to use the metamodule/Рекомендуется использовать метамодуль
+### 🇨🇳 中国人:
+此修复程序适用于运行 OxygenOS 16 的 OnePlus Ace 6T 用户。它解决了相机、电池容量显示和设备名称方面的问题。
+
+### 🇪🇸 Español:
+Esta solución es para usuarios de OnePlus Ace 6T con OxygenOS 16. Soluciona problemas con la cámara, la visualización de la capacidad de la batería y el nombre del dispositivo.
+
+
+## Requirements
+### KernelSU
++ Minimal KernelSU version: 10940
++ Minimal KernelSU Manager (ksud): 11575
++ Metamodule
   
 ### Magisk
-
-+ Minimal version/Минимальная версия: 26402
-+ Use/используйте [mountify](https://github.com/backslashxx/mountify/releases)
-
++ Minimal version: 26402
++ Use [mountify](https://github.com/backslashxx/mountify/releases)
 
 ### APatch
-
-+ Minimal version/Минимальная версия: 10568
++ Minimal version: 10568
 
 ## Compatibility/Совместимость
 Only OnePlus Ace 6T device (PLR110)
