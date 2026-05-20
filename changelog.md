@@ -1,4 +1,4 @@
-## V1.2 (Patch03)
+## V1.2.3
 - Fix /system/odm
 
 ## V1.2
