@@ -26,7 +26,6 @@ Esta solución es para usuarios de OnePlus Ace 6T con OxygenOS 16. Soluciona pro
   
 ### Magisk
 + Minimal version: 26402
-+ Use [mountify](https://github.com/backslashxx/mountify/releases)
 
 ### APatch
 + Minimal version: 10568
