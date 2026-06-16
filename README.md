@@ -1,4 +1,4 @@
-# OnePlus Ace 6T Drivers
+# Ace 6T Drivers
 <a href="https://t.me/OnePlus13R_Ace5"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a>
 
 ### 🇬🇧 English:
