@@ -4,8 +4,8 @@
 - New mount mode - **Native Overlay**, which creates and mounts an IMG image as an overlay. It does not require metamodules and disabling the "Unmount modules by default" feature in the KSU
 - Correction of minor bugs
 
-## V1.2.7
-- Changes from Ace5DVMOD applied (v2.3.17)
+## V1.2.8
+- Minor changes
 - Sources Drivers updated from ColorOS 16.0.7.200 (16.1)
 
 
