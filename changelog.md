@@ -1,8 +1,6 @@
-## V1.3.1 (Updated 18 June, 2026)
+## V1.3.2 (Updated 20 June, 2026)
 - Sources Drivers updated from ColorOS 16.0.8.300
-
-- New mount mode - **Native Overlay**, which creates and mounts an IMG image as an overlay. It does not require metamodules and disabling the "Unmount modules by default" feature in the KSU
-- Correction of minor bugs
+- Optimizing code in scripts
 
 ## V1.2.8
 - Minor changes
