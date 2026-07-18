@@ -1,6 +1,6 @@
 {
-    "version": "v1.4",
-    "versionCode": 23,
-    "zipUrl": "https://github.com/NicosXRus/OPAce_6T_Drivers/releases/download/400_16.1/Ace6TDV1_4.zip",
+    "version": "v1.4.1",
+    "versionCode": 25,
+    "zipUrl": "https://github.com/NicosXRus/OPAce_6T_Drivers/releases/download/400_16.1/Ace6TDV1_4_1.zip",
     "changelog": "https://raw.githubusercontent.com/NicosXRus/OPAce_6T_Drivers/main/changelog.md"
 }
