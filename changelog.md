@@ -6,7 +6,7 @@
 > - Added a new mounting mode—OverlayData. No IMG image build required.
 > - Added splashes (Russian users have their own)
 > - Automated Legacy mode
-
+> - Added translations into: German, Polish, Arabic, and Hindi
 
 ## V1.4.1 (Updated 18 Jule, 2026)
 - Sources Drivers updated from ColorOS 16.0.9.400
