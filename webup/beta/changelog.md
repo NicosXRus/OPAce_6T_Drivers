@@ -1,4 +1,4 @@
 ## Станьте бета-тестером нашего модуля
-# v1.6 (DevPrivate)
-- Sources Drivers updated from ColorOS 16.0.10.500
+# v2.0 (ClosedBeta)
+- Sources Drivers updated from ColorOS 17.0.0.100
 - New WebUI
