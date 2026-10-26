@@ -1,10 +1,10 @@
 {
-  "version": "v1.6.3",
-  "versionCode": 100603,
-  "zipUrl": "https://github.com/NicosXRus/OPAce_6T_Drivers/releases/download/500_16.1_2/Ace6TDV1_6_3.zip",
-  "changelog": "https://raw.githubusercontent.com/NicosXRus/OPAce_6T_Drivers/refs/heads/main/changelog.md",
-  "image": "",
-  "os": "OxygenOS",
-  "num": "16",
-  "global": "0"
+  "version": "v2.0",
+  "versionCode": 200000,
+  "zipUrl": "https://github.com/NicosXRus/OPAce_6T_Drivers/releases/download/101_17/Ace6TDV2_0.zip",
+  "changelog": "https://raw.githubusercontent.com/NicosXRus/OPAce_6T_Drivers/refs/heads/main/webup/release/changelog.md",
+  "image": "https://raw.githubusercontent.com/NicosXRus/OPAce_6T_Drivers/refs/heads/main/webup/release/cos17.webp",
+  "os": "ColorOS",
+  "num": "17",
+  "global": "1"
 }
