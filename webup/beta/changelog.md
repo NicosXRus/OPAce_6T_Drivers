@@ -1,4 +1,7 @@
-## Станьте бета-тестером нашего модуля
-# v2.0 (ClosedBeta)
-- Sources Drivers updated from ColorOS 17.0.0.100
-- New WebUI
+## 2.0.5.28
+
+- Sources Drivers updated from ColorOS CN 17.0.0.101
+- Updated structure module
+- Games in WebUI: Checkers, Chess, Snake
+- Unification of code with the module for OnePlus Ace 6T
+- Fixing hotinstall.sh
