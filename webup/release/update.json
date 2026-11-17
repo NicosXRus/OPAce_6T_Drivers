@@ -1,8 +1,8 @@
 {
-  "version": "2.1",
-  "versionCode": 200100,
+  "version": "2.1.1",
+  "versionCode": 200101,
   "zipUrl": "https://github.com/NicosXRus/OPAce_6T_Drivers/releases/download/200_17/Ace6TDV2_1.zip",
-  "changelog": "https://raw.githubusercontent.com/NicosXRus/OPAce_6T_Drivers/refs/heads/main/webup/release/changelog.md",
+  "changelog": "https://raw.githubusercontent.com/NicosXRus/OPAce_6T_Drivers/refs/heads/main/changelog.md",
   "image": "",
   "os": "ColorOS",
   "num": "17",
